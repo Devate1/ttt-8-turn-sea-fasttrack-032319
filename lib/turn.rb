@@ -37,5 +37,3 @@ def turn(board)
       user_input = gets.strip
     end
 end
-
-end
